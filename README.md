@@ -5,6 +5,9 @@ XPLATFORM과 Oracle을 이용해 3년동안 MES 솔루션을 개발했습니다.
 # Experience
 ### 가온소프트
 - 2019.03 ~ 2022.06
+- MES 솔루션 개발
+- Skill
+  - XPLATFORM, Oracle, Tibero, pl/sql, Mybatis
 
 # Other Experience.
 📃 스프링부트를 활용한 커뮤니티 사이트
