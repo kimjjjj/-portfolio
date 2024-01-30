@@ -36,4 +36,4 @@ XPLATFORM과 Oracle을 이용해 3년동안 MES 솔루션을 개발했습니다.
 - Front-End : XPLATFORM, HTML/CSS, JavaScript, Thymleaf
 - Back-End : Spring Boot
 - Database : Oracle, Tibero
-- Cloud : AWE
+- Cloud : AWS
