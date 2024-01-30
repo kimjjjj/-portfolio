@@ -6,7 +6,7 @@ XPLATFORM과 Oracle을 이용해 3년동안 MES 솔루션을 개발했습니다.
 - 2019-03 ~ 2022-06
 - MES 솔루션 개발
 - Skill
-  - XPLATFORM, Oracle, Tibero, pl/sql, Mybatis
+  - XPLATFORM, Spring framework, Oracle, Tibero, pl/sql, Mybatis
 
 # PROJECT
 ### 조광페인트 WMS 구축
